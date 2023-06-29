@@ -1,1 +1,1 @@
-# SAP_DIAGNOSIS_360
+# Diagnosis360

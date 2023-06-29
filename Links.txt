@@ -1,0 +1,6 @@
+
+1)Heart_Dataset-https://drive.google.com/file/d/1CEql-OEexf9p02M5vCC1RDLXibHYE9Xz/view
+2)Parkinsons Disease Dataset-https://www.kaggle.com/code/adityakadiwal/parkinsons-disease-detection
+3)Breast_cancer_Dataset-https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
+4)Diabetes_Dataset-https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
+5)Symptom_Checker_Dataset-https://drive.google.com/file/d/1gRhEq_mpSY3q23F3ka8NCvtMBZvKB86p/view?usp=share_link
